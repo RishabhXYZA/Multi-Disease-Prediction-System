@@ -132,9 +132,9 @@ if page == "🌐 Home":
             return None
 
     # Load datasets safely
-    diabetes_df = load_csv("Dataset/diabetes.csv")
-    kidney_df = load_csv("Dataset/kidney_disease.csv")
-    heart_df = load_csv("Dataset/heart.csv")
+    diabetes_df = load_csv("Datasets/diabetes.csv")
+    kidney_df = load_csv("Datasets/kidney_disease.csv")
+    heart_df = load_csv("Datasets/heart.csv")
 
     colA, colB, colC = st.columns(3)
 
@@ -491,4 +491,5 @@ st.sidebar.markdown("\n\n")
 st.sidebar.markdown("\n\n")
 
 st.sidebar.subheader("Thank you for choosing MediPredict❤️— your intelligent partner for early disease detection.")
+
 #### ---- ####
