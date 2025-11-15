@@ -28,7 +28,7 @@ This system analyzes user-provided medical parameters and generates real-time di
   2. Handling missing values
   3. Feature selectionwith graph plots
 
-# Users can download datasets from the Home Page ("Click here to download").
+# Users can download datasets from the Home Page.
 
 # 🧠 Tech Stack
 1. Frontend-Streamlit
