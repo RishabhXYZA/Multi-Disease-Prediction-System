@@ -33,3 +33,6 @@ This system analyzes user-provided medical parameters and generates real-time di
 # 🧠 Tech Stack
 1. Frontend-Streamlit
 2. Backend-Python,Machine Learning,Data Preprocessing & Cleaning,Data Visualization (Matplotlib, Seaborn)
+
+# Try it Live:
+https://multi-disease-prediction-system-3.onrender.com/
